@@ -11,7 +11,7 @@ int main() {
     	if(i%11 == 5){
     	num = i;
     	printf("numero %d: %d", contador, num);
-    	printf(" \ resto: %d\n", i%11);
+    	printf("  resto: %d\n", i%11);
     
     	contador++;
     		
@@ -19,6 +19,6 @@ int main() {
 		
 
 }
-	printf("O quinto número é: %d", num);
+	printf("O quinto nÃºmero Ã©: %d", num);
   return 0;
 }
